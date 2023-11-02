@@ -1,6 +1,6 @@
 #  Olá eu sou o @JulioJuniorSaldanha
 - 👀 Sou interessado em desenvolvimento web 
-- 🌱 Estudando .Net
+- 🌱 Estudando .Net e php
 
 ### Principais linguagems:
 <div style="display: inline_block"><br>
